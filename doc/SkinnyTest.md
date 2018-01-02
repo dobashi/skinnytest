@@ -16,8 +16,8 @@
 ## Scala(Skinny) vs Kotlin(SparkFW/Exposed)
 
 ### Scalaのメリット
-* ServerSideの情報がいっぱいある（英語が多いけど
-*　負荷テスト(Gatling)やブラウザ自動テスト(ScalaTest using Selenium)と言語を揃えられる
+* ServerSideの情報がいっぱいある（英語が多いけど)　
+* 負荷テスト(Gatling)やブラウザ自動テスト(ScalaTest using Selenium)と言語を揃えられる
 * Skinny scaffoldがCRUDのviewまで全部用意してくれるのでとりあえず管理画面はすぐ作れる
 * Skinnyの日本語情報が多い
 
